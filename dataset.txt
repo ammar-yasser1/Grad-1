@@ -1,0 +1,31 @@
+For applications involving natural language processing (NLP), especially in the field of mental health, the Mental Health Chat Dataset is a valuable tool. Here is a thorough summary:
+The characteristics
+
+Every dataset entry includes:
+
+    questionID: A special number assigned to every question.
+    questionTitle: A succinct synopsis of the user's question.
+    questionText: The user's complete query, including all of their worries.
+    questionLink: URL pointing to CounselChat's original query.
+    topic: The main focus of the inquiry (e.g., anxiety, depression).
+    therapistInfo: The replying therapist's name and qualifications.
+    therapistURL: The URL to the profile of the therapist.
+    answerText: The therapist's answer to the query posed by the user.
+    upvotes: The response's upvotes, which show how well-liked it is by the community.
+    views: The quantity of views that the query and its answers have received.
+
+Dimensions
+
+There are around 2,780 entries in the collection, each of which represents a distinct question-response pair.
+Impact
+
+There are various reasons why this dataset is important.
+
+    Training AI Models: It offers real-life examples of expert answers to questions about mental health, which is crucial for creating responsive and suitable AI-driven chatbots.
+    NLP research makes it easier to interpret and produce language that is human-like in critical fields.
+    Mental Health Support: Assists in developing resources that can provide initial support to anyone looking for mental health guidance.
+
+Temporal and Geographic Features
+
+    Spatial: CounselChat, a website mostly available in the United States, is the source of the dataset.
+    Temporal: Interactions over a number of years before March 25, 2020, were captured in the data.
